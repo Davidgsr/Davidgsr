@@ -3,6 +3,7 @@
 
 - 🔭 Atualmente sou estudante de Ciência e Tecnologia na UFABC
 - 🌱 Estou estudando e criando projetos em Python
+- 🎡 Quando não estou codando e nem estudando estou na academia, lazer com a família ou praticando qualquer esporte que apareça 😁
 - 📫 Me contate no e-mail: dgsrfut07@gmail.com
 
 <div style="display: inline_block"><br>
